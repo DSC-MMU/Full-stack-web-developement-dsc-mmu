@@ -1,0 +1,53 @@
+1 .Text editor
+2. Browser of your choice
+that is all
+
+you can use brackets, sublime text, atom, vscode, notepad++, even visual studio. the list is endless
+
+so here we are, what are we going to use the browser for?
+
+ some can guess it, yes you are right, we are going to use it to run our web document.
+ and text editor for writing our code and mark up
+ so that brief intro maybe has given as the appetite to know more
+ so let get to know it.
+
+ I LOVE VISUAL STUDIO CODE AND THAT'S WHAT I AM GOING TO USE.
+  so you can choose the editor of your choice and you are still good yto be apro
+
+
+  for vscode there are many exciting features like auto save you have plugins and many more
+
+  anybody with a question please use the chat area to ask you quiz
+  so  to avoid saving my file everytime, i am goin to enable my auto save mode. so follow keenly to see  where you can get it.
+
+  so let us get start with our very first web document file.
+
+  u can use both .htm and .html extensions
+  the very first statement, the doctype for html5
+
+  the doctype tell the browser which type of document. for instance this would tell the browser we are going to use html5
+  html is the parent tag.
+  all other tags must be enclosed within the parent element.
+
+  are we togther?
+   so for vscode users maybe u are asking why my tags are auto completing
+   i am using auto completion extensions
+
+   Let me expalain the head and the body
+   so usually we have title and meta tags on the body
+   meta tags would contain more information  to help enhance search optimization.
+   we also have link to css file put in the head,
+   we have linkvto favicon,
+   manifest file and so many more.
+   What is title?
+   This is what people use to find your website.
+    e.g. and we run it.
+    so my website is opening
+    the title is waht will appear at top most of the browser
+    sorry my laptop has issues today you are going to bear with me... sure it will load 
+
+    right now our page may not even make sense but i know with time or tomorrow we shall build on where we have left today
+    and thank you guys
+    there are more we haven't talked about today because of time and the subject of the today study
+    it was fundamentals and basic html tag
+    i doubt if image tag is a basic one
