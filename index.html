@@ -2,20 +2,25 @@
 <html lang="en">
 <head>
     <title>THE PAULLASTER HAURWEENGS</title>
-
+    <link rel="stylesheet" href="./style.css">
+ <!-- <style>
+     li{
+         list-style-type: none;
+     }
+ </style> -->
 </head>
 <body>
     <header>
-    <img src="./pp.jpg" alt="PAULLASTER" srcset="" sizes="">
-    <nav class="menu">
-     <ul>
-         <li><a href="#">contacts</a></li>
-         <li><a href="#">talk about (my story)</a></li>
+    <img src="./pp.jpg" alt="PAULLASTER" srcset="" sizes="" class="img-logo">
+    <nav class="nav">
+     <ul class="menu">
+         <li class="menu-list"><a class="menu-links" href="#">contacts</a></li>
+         <li class="menu-list"><a class="menu-links" href="#">talk about me (my story)</a></li>
      </ul>
     </nav>
     </header>
     <main>
-        <section>
+        <section class="content">
             <h1>Welcome this is the nerd</h1>
             <p>Let us talk web</p>
         </section>
@@ -24,14 +29,14 @@
         </canvas>
         <picture> </picture>
         <figure></figure>
-        <form action="/" method="POST" netlify>
-            <label for="name">Enter your name</label>
-            <input  id="name" type="text" placeholder="Enter your name">
-            <label for="mail">Email</label>
-            <input type="email" id="mail" placeholder="Enter your Email">
-            <input type="radio" name="gender" id="male"><label for="male">Male</label>
-            <input type="radio" name="gender" id="female"><label for="female">female</label>
-            <button type="submit">submit</button>
+        <form action="/" method="POST" netlify class="form">
+            <label for="name" class="name">Enter your name</label>
+            <input  id="name" type="text" placeholder="Enter your name" class="name-txtBox">
+            <label for="mail" class="name">Email</label>
+            <input type="email" id="mail" placeholder="Enter your Email" class="email-txtBox"> <br>
+            <input type="radio"  id="male" ><label for="male" class="gender">Male</label> <br>
+            <input type="radio"  id="female" class="gender"><label for="female" class="gender">female</label> <br>
+            <button type="submit" class="btn">submit</button>
         </form>
     </main>
     <footer>

@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    box-sizing: inherit;
+    margin: 3em;
+    text-align: center;
+    background: burlywood;
+}
+.img-logo{
+    border-radius: 50%;
+    width: 30em;
+    height: auto;
+    margin-bottom: 5em;
+    box-shadow: .8em 1.4em 2.8em 0 rgba(0, 0, 0, .2);
+}
+.menu{
+    /* background: cadetblue; */
+    padding: 2em;
+}
+.menu-list{
+    list-style-type: none;
+    font-size: 3em;
+    display: table-cell;
+    
+}
+.menu-links{
+    text-decoration: none;
+    margin: 6em;
+    text-transform: capitalize;
+    color: black;
+    cursor: pointer;
+    transition: all 1s ease-in-out;
+}
+.menu-links:hover{
+    background: chartreuse;
+    padding: 1em;
+}
+.content{
+    margin-top: 2em;
+    font-size: 2em;
+}
+.form{
+    /* background: crimson; */
+    padding: 10em;
+}
+.name{
+    display: block;
+    font-size: 2em;
+}
+.email-txtBox{
+    margin-bottom: 2em;
+}
+input{
+    width: 20em;
+    height: 4vh;
+}
+input[type=radio]{
+    width: auto;
+    height: auto;
+}
+.gender{
+ margin-bottom:2em;
+ font-size: 2em;
+}
+.btn{
+    background: chartreuse;
+    width: 6em;
+    height: 5vh;
+
+}
+footer{
+   
+}
+span{
+    display: flex;
+    font-size: 3em;
+    border-top: .1em solid rgba(0, 0, 0, 0.2);
+}
