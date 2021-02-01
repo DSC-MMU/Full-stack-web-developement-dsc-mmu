@@ -8,9 +8,9 @@
  * and the payable amout and currentbalance must be greater than zero
  * 
  */
-let currentBal = 30000;
+let currentBal = 400000;
 const tax = 0.5;
-let costOfCommodity = 10000;
+let costOfCommodity = 7000;
 let payableAmount = costOfCommodity + (costOfCommodity* tax);
 
 //if syntax
